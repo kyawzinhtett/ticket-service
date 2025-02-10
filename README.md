@@ -4,7 +4,7 @@
 
 -
   ```sh
-   git clone https://github.com/thom775-dev/ticket-service.git
+   git clone https://github.com/kyawzinhtett/ticket-service.git
    ```
 -
    ```sh
